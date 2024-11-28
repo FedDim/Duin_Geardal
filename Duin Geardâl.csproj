@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Генерація\Комната.cs" />
     <Compile Include="Программа.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
